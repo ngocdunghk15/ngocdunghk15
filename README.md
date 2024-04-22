@@ -1,6 +1,6 @@
 ### I'm Dephrish 👋
 
-<img alt="my stats" align="left" width=60%" src="https://github-readme-stats.vercel.app/api?username=ngocdunghk15&show_icons=true&theme=tokyonight"/>
+<img alt="my stats" align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=ngocdunghk15&show_icons=true&theme=tokyonight"/>
 <img alt="top languages" align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocdunghk15&theme=tokyonight"/>
 
 <!--

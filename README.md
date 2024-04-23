@@ -3,7 +3,7 @@
 ⚡ Fun fact: I'm fac(c)t and funnn =))
 ***
 
-<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ngocdunghk15&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
+<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ngocdunghk15&show_icons=true&theme=tokyonight&rank_icon=github"/>
 <img alt="top languages" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocdunghk15&theme=tokyonight&layout=compact"/>
 <br/>
 <!--
